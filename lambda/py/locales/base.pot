@@ -1,0 +1,51 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-09-04 15:02-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: alexa/data.py:3
+msgid "Welcome to Gloucester Guide!"
+msgstr ""
+
+#: alexa/data.py:4
+msgid ""
+"Say about, to hear more about the city, or say coffee, breakfast, lunch, "
+"or dinner, to hear local restaurant suggestions, or say recommend an "
+"attraction, or say, go outside. "
+msgstr ""
+
+#: alexa/data.py:5
+msgid ""
+"Gloucester Massachusetts is a city on the Atlantic Ocean. A popular "
+"summer beach destination, Gloucester has a rich history of fishing and "
+"ship building."
+msgstr ""
+
+#: alexa/data.py:6
+msgid "Okay, see you next time!"
+msgstr ""
+
+#: alexa/data.py:7
+msgid ""
+"The {} can't help you with that. It can help you learn about Gloucester "
+"if you say tell me about this place. What can I help you with?"
+msgstr ""
+
+#: alexa/data.py:8
+msgid "What can I help you with?"
+msgstr ""
+
